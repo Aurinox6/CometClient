@@ -1,4 +1,5 @@
-<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/696edb21-3c04-49e8-a9e5-71b32c15be69" />
+<img width="500" height="500" alt="cometclient-removebg-preview" src="https://github.com/user-attachments/assets/b6193545-e632-458f-8b6c-f7bad1aa35e6" />
+
 
 # CometClient
 Just an cheat modpack for minecraft
