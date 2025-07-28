@@ -1,3 +1,4 @@
+<img width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/696edb21-3c04-49e8-a9e5-71b32c15be69" />
 ![cometclient](https://github.com/user-attachments/assets/7025f03c-d952-4dd0-b7f9-a6150c83ee23)
 # CometClient
 Just an cheat modpack for minecraft
